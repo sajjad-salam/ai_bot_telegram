@@ -33,7 +33,7 @@ This Python script is a Telegram bot that interacts with users by simulating con
 4. Run the script:
 
    ```bash
-   python telegram_chat_bot.py
+   python main.py
    ```
 
 ## Contributing
