@@ -19,7 +19,7 @@ This Python script is a Telegram bot that interacts with users by simulating con
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/telegram-chat-bot.git
+   git clone https://github.com/sajjad-salam/ai_bot_telegram
    ```
 
 2. Install the required dependencies:
